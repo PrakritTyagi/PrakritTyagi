@@ -5,7 +5,6 @@ A budding researcher!!
 - 🌱 I’m currently learning RL.
 - 💞️ I’m looking to collaborate on MPC and RL fusion.
 - 📫 You can reach me through mail: tyagiprakrit200@gmail.com
-- Google Scholar : https://scholar.google.com/citations?user=mr1HGtgAAAAJ&hl=en&oi=ao
 
 <!---
 PrakritTyagi/PrakritTyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
